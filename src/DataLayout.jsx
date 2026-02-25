@@ -1,5 +1,5 @@
 import {NavLink, Outlet, useLocation} from "react-router-dom";
-import "./data.css"
+import "./Data.css"
 
 export default function DataLayout() {
   const location = useLocation();
